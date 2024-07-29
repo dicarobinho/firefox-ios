@@ -5,10 +5,10 @@
 "+" = "+";
 
 /* Authentication prompt message with no realm. Parameter is the hostname of the site */
-"A username and password are being requested by %@." = "Wužywarske mě a gronidło pominatej se wót %@.";
+"A username and password are being requested by %@." = "Wužywaŕske mě a gronidło pominatej se wót %@.";
 
 /* Authentication prompt message with a realm. First parameter is the hostname. Second is the realm string */
-"A username and password are being requested by %@. The site says: %@" = "Wužywarske mě a gronidło pominatej se wót %1$@. Sedło groni: %2$@";
+"A username and password are being requested by %@. The site says: %@" = "Wužywaŕske mě a gronidło pominatej se wót %1$@. Sedło groni: %2$@";
 
 /* Button for reader mode font size. Keep this extremely short! This is shown in the reader mode toolbar. */
 "Aa" = "Aa";
@@ -77,7 +77,7 @@
 "Amazon" = "Amazon";
 
 /* Authentication prompt title */
-"Authentication required" = "Awtentifikacija trěbna";
+"Authentication required" = "Awtentifikacija trjebna";
 
 /* Accessibility label for the Back button in the tab toolbar. */
 "Back" = "Slědk";
@@ -1144,6 +1144,9 @@
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "URL (napšašowanje pśez %s wuměniś)";
 
+/* Title of setting to block opening external apps when pressing links. */
+"Settings.BlockOpeningExternalApps.Title" = "Wócynjanje eksternych nałoženjow blokěrowaś";
+
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "Wšykne daty websydła wulašowaś";
 
@@ -1399,6 +1402,9 @@
 /* Description displayed under the ”Offer to Open Copied Link” option. See https://bug1223660.bmoattachments.org/attachment.cgi?id=8898349 */
 "Settings.OfferClipboardBar.Status" = "Gaž se Firefox wócynja";
 
+/* Description displayed under the ”Offer to Open Copied Link” option. See https://bug1223660.bmoattachments.org/attachment.cgi?id=8898349 */
+"Settings.OfferClipboardBar.StatusV2" = "Gaž se Firefox wócynja";
+
 /* Title of setting to enable the Go to Copied URL feature. See https://bug1223660.bmoattachments.org/attachment.cgi?id=8898349 */
 "Settings.OfferClipboardBar.Title" = "Póbitowaś, kopěrowane wótkaze wócyniś";
 
@@ -1440,6 +1446,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "Pśi dłujkem tłocenju wótkazow";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "Pśi dłujkem tłocenju wótkazow";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "Wótkazowe pśeglědy pokazaś";
@@ -1739,7 +1748,7 @@
 "Use stage servers" = "Testowe serwery wužywaś";
 
 /* Username textbox in Authentication prompt */
-"Username" = "Wužywarske mě";
+"Username" = "Wužywaŕske mě";
 
 /* The message of the error displayed to a user when they trying to change a wallpaper failed. */
 "Wallpaper.Change.Error.Body.v106" = "Něco njejo se raźiło z toś tym slězynowym wobrazom.";
