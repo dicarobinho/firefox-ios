@@ -29,19 +29,19 @@
 "Microsurvey.Survey.HeaderLabel.v127" = "Пройти це опитування";
 
 /* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption1.v127" = "Дуже задоволені";
+"Microsurvey.Survey.Options.LikertScaleOption1.v127" = "Відмінно";
 
 /* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption2.v127" = "Задоволені";
+"Microsurvey.Survey.Options.LikertScaleOption2.v127" = "Добре";
 
 /* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
 "Microsurvey.Survey.Options.LikertScaleOption3.v127" = "Нейтрально";
 
 /* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption4.v127" = "Незадоволені";
+"Microsurvey.Survey.Options.LikertScaleOption4.v127" = "Погано";
 
 /* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption5.v127" = "Дуже незадоволені";
+"Microsurvey.Survey.Options.LikertScaleOption5.v127" = "Гірше не може бути";
 
 /* After engaging with the microsurvey prompt, the microsurvey pops up as a bottom sheet for the user to answer, this the title of a link on the survey and allows the user to navigate to our privacy policy details. */
 "Microsurvey.Survey.PrivacyPolicyLink.v127" = "Положення про приватність";

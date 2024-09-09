@@ -44,5 +44,5 @@
 "Microsurvey.Survey.Options.LikertScaleOption5.v127" = "Mjög óánægð/ur";
 
 /* After engaging with the microsurvey prompt, the microsurvey pops up as a bottom sheet for the user to answer, this the title of a link on the survey and allows the user to navigate to our privacy policy details. */
-"Microsurvey.Survey.PrivacyPolicyLink.v127" = "Meðferð persónuupplýsinga";
+"Microsurvey.Survey.PrivacyPolicyLink.v127" = "Upplýsingar um meðferð persónuupplýsinga";
 
