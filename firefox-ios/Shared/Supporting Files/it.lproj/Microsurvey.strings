@@ -28,21 +28,6 @@
 /* After engaging with the microsurvey prompt, the microsurvey pops up as a bottom sheet for the user to answer, this is the title for the header on the screen. */
 "Microsurvey.Survey.HeaderLabel.v127" = "Completa questo sondaggio";
 
-/* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption1.v127" = "Molto soddisfatto/a";
-
-/* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption2.v127" = "Soddisfatto/a";
-
-/* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption3.v127" = "Né soddisfatto/a né insoddisfatto/a";
-
-/* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption4.v127" = "Insoddisfatto/a";
-
-/* On the microsurvey, this is the title for one of the options that the user can select to answer the survey. */
-"Microsurvey.Survey.Options.LikertScaleOption5.v127" = "Molto insoddisfatto/a";
-
 /* After engaging with the microsurvey prompt, the microsurvey pops up as a bottom sheet for the user to answer, this the title of a link on the survey and allows the user to navigate to our privacy policy details. */
 "Microsurvey.Survey.PrivacyPolicyLink.v127" = "Informativa sulla privacy";
 
