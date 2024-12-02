@@ -2,10 +2,10 @@
 "ContextualHints.Shopping.NotOptedIn.v120" = "Finden Sie heraus, ob Sie den Bewertungen dieses Produkts vertrauen können – bevor Sie es kaufen.";
 
 /* Contextual hints are little popups that appear for the users informing them of new features. This one is a call to action for the popup describing the Shopping feature. It indicates that a user can go directly to the Shopping feature by tapping the text of the action. */
-"ContextualHints.Shopping.NotOptedInAction.v120" = "Rezensionsprüfer ausprobieren";
+"ContextualHints.Shopping.NotOptedInAction.v120" = "Review Checker ausprobieren";
 
 /* Contextual hints are little popups that appear for the users informing them of new features. This is a call to action for the popup that appears after the user has opted in for the Shopping feature. It indicates that a user can directly open the review checker by tapping the text of the action. */
-"ContextualHints.Shopping.OptedInAction.v120" = "Rezensionsprüfer öffnen";
+"ContextualHints.Shopping.OptedInAction.v120" = "Review Checker öffnen";
 
 /* Contextual hints are little popups that appear for the users informing them of new features. This one appears after the user has opted in and informs him if he wants use the review checker by tapping the Shopping button. */
 "ContextualHints.Shopping.OptedInBody.v120" = "Sind diese Bewertungen vertrauenswürdig? Überprüfen Sie es jetzt, um eine angepasste Bewertung zu sehen.";
@@ -97,9 +97,6 @@
 /* Description for info card when the product is in analysis mode */
 "Shopping.InfoCard.ProgressAnalysis.Description.v120" = "Dies kann etwa 60 Sekunden dauern.";
 
-/* Title for info card when the product is in analysis mode */
-"Shopping.InfoCard.ProgressAnalysis.Title.v120" = "Qualität der Bewertung wird überprüft";
-
 /* Title for info card when the product is in analysis mode. The placeholder represents the percentage of the analysis progress, ranging between 1 and 100. */
 "Shopping.InfoCard.ProgressAnalysis.Title.v123" = "Qualität der Bewertung wird überprüft (%@)";
 
@@ -118,17 +115,14 @@
 /* Title for card displayed when a shopping product has not been analysed yet. */
 "Shopping.NoAnalysisCard.HeadlineLabel.Title.v120" = "Noch keine Informationen zu diesen Bewertungen";
 
-/* Text for the disclaimer that appears underneath the rating image of the Shopping Experience Opt In onboarding Card (Fakespot). The parameter will be replaced by the Fakespot app name. After the colon, what appears are two links, each on their own line. The first link is to a Privacy policy. The second link is to Terms of use. */
-"Shopping.OptInCard.Disclaimer.Text.v120" = "Indem Sie „Ja, ausprobieren“ auswählen, stimmen Sie dem folgenden von %@ zu:";
-
 /* Text for the disclaimer that appears underneath the rating image of the Shopping Experience Opt In onboarding Card (Fakespot). After the colon, there will be two links, each on their own line. The first link is to a Privacy policy. The second link is to Terms of use. */
 "Shopping.OptInCard.Disclaimer.Text.v123" = "Indem Sie „Ja, ausprobieren“ auswählen, stimmen Sie den folgenden Bedingungen zu:";
 
 /* Label for the first paragraph of the Shopping Experience Opt In onboarding Card (Fakespot). The first parameter will be the website the user is coming from when viewing this screen (default Amazon). The second parameter will be replaced by the app name. This string is almost identical with 'Shopping.OptInCard.FirstParagraph.Description', but without Best Buy and Walmart websites, which are not available in many locales. */
-"Shopping.OptInCard.FirstParagraph.AmazonOnly.Description.v122" = "Sehen Sie sich vor dem Kauf an, wie zuverlässig Produktbewertungen auf %1$@ sind. Der Rezensionsprüfer, eine experimentelle Funktion von %2$@, ist direkt in den Browser integriert.";
+"Shopping.OptInCard.FirstParagraph.AmazonOnly.Description.v122" = "Sehen Sie sich vor dem Kauf an, wie zuverlässig Produktbewertungen auf %1$@ sind. Der Review Checker, eine experimentelle Funktion von %2$@, ist direkt in den Browser integriert.";
 
 /* Label for the first paragraph of the Shopping Experience Opt In onboarding Card (Fakespot). The first parameter will be the website the user is coming from when viewing this screen (default Amazon). The second parameter will be replaced by the app name. The third and fourth parameters will be the other two websites that are currently supported (Amazon, Best Buy or Walmart) besides the one used for the first parameter. */
-"Shopping.OptInCard.FirstParagraph.Description.v120" = "Sehen Sie sich vor dem Kauf an, wie zuverlässig Produktbewertungen auf %1$@ sind. Der Rezensionsprüfer, eine experimentelle Funktion von %2$@, ist direkt in den Browser integriert. Es funktioniert auch auf %3$@ und %4$@.";
+"Shopping.OptInCard.FirstParagraph.Description.v120" = "Sehen Sie sich vor dem Kauf an, wie zuverlässig Produktbewertungen auf %1$@ sind. Der Review Checker, eine experimentelle Funktion von %2$@, ist direkt in den Browser integriert. Es funktioniert auch auf %3$@ und %4$@.";
 
 /* Label for the header of the Shopping Experience Opt In onboarding Card (Fakespot) */
 "Shopping.OptInCard.HeaderLabel.Title.v120" = "Lesen Sie unseren vertrauenswürdigen Leitfaden zur Produktbewertung";
@@ -139,9 +133,6 @@
 /* Text for the main button of the Shopping Experience Opt In onboarding Card (Fakespot) */
 "Shopping.OptInCard.MainButton.Title.v120" = "Ja, ausprobieren";
 
-/* Show Firefox Browser Privacy Policy page from the Privacy section in the Shopping Experience Opt In onboarding Card (Fakespot). See https://www.mozilla.org/privacy/firefox/ */
-"Shopping.OptInCard.PrivacyPolicy.Button.Title.v120" = "Datenschutzerklärung";
-
 /* Show Firefox Browser Privacy Policy page from the Privacy section in the Shopping Experience Opt In onboarding Card (Fakespot). The parameter will be replace by the Firefox app name. */
 "Shopping.OptInCard.PrivacyPolicy.Button.Title.v123" = "Datenschutzhinweis von %@";
 
@@ -150,9 +141,6 @@
 
 /* Label for the second paragraph of the Shopping Experience Opt In onboarding Card (Fakespot). The first parameter will be replaced by the Fakespot app name. The second parameter will be replaced the company name of Mozilla. */
 "Shopping.OptInCard.SecondParagraph.Description.v120" = "Wir nutzen das Potenzial von %1$@ von %2$@, um Ihnen dabei zu helfen, voreingenommene und nicht authentische Bewertungen zu vermeiden. Unser KI-Modell wird ständig verbessert, um Sie beim Einkaufen zu schützen.";
-
-/* Show Firefox Browser Terms of Use page from the Privacy section in the Shopping Experience Opt In onboarding Card (Fakespot). See https://www.mozilla.org/privacy/firefox/ */
-"Shopping.OptInCard.TermsOfUse.Button.Title.v120" = "Nutzungsbedingungen";
 
 /* Show Fakespot Terms of Use page in the Shopping Experience Opt In onboarding Card (Fakespot). The parameter will be replace by the Fakespot name. */
 "Shopping.OptInCard.TermsOfUse.Button.Title.v123" = "Nutzungsbedingungen von %@";
@@ -183,9 +171,6 @@
 
 /* Label of the headline from How we determine review quality card displayed in the shopping review quality bottom sheet. The first parameter will be replaced by the Fakespot app name and the second parameter by the company name of Mozilla. */
 "Shopping.ReviewQualityCard.Headline.Label.v120" = "Wir verwenden die KI-Technologie von %1$@ von %2$@, um die Zuverlässigkeit von Produktbewertungen zu überprüfen. Dies hilft nur bei der Einschätzung der Qualität der Bewertung, nicht der Produktqualität.";
-
-/* Highlights label from How we determine review quality card displayed in the shopping review quality bottom sheet. The parameter substitutes the partner website the user is coming from. The *text inside asterisks* denotes part of the string to bold, please leave the text inside the '*' so that it is bolded correctly. */
-"Shopping.ReviewQualityCard.Highlights.Label.v120" = "*Highlights* stammen von %1@-Bewertungen innerhalb der letzten 80 Tage, die wir für zuverlässig halten.";
 
 /* Highlights label from How we determine review quality card displayed in the shopping review quality bottom sheet. The parameter substitutes the partner website the user is coming from. The *text inside asterisks* denotes part of the string to bold, please leave the text inside the '*' so that it is bolded correctly. */
 "Shopping.ReviewQualityCard.Highlights.Label.v126" = "*Highlights* stammen von %@-Bewertungen innerhalb der letzten 80 Tage, die wir für zuverlässig halten.";
@@ -221,7 +206,7 @@
 "Shopping.SettingsCard.Expand.GroupedRecommendedProductsAndSwitch.AccessibilityLabel.v123" = "%1$@, Umschalt-Schaltfläche, %2$@.";
 
 /* Action title of the footer underneath the Settings Card displayed in the shopping review quality bottom sheet. The first parameter will be replaced by the Fakespot app name and the second parameter by the company name of Mozilla. */
-"Shopping.SettingsCard.Footer.Action.v120" = "Rezensionsprüfer wird bereitgestellt von %1$@ von %2$@";
+"Shopping.SettingsCard.Footer.Action.v120" = "Review Checker wird bereitgestellt von %1$@ von %2$@";
 
 /* Title of the settings card displayed in the shopping review quality bottom sheet. */
 "Shopping.SettingsCard.Label.Title.v120" = "Einstellungen";
@@ -236,16 +221,16 @@
 "Shopping.SettingsCard.SwitchValueOn.AccessibilityLabel.v123" = "Ein";
 
 /* Label of the button from settings card displayed in the shopping review quality bottom sheet. */
-"Shopping.SettingsCard.TurnOffButton.Title.v120" = "Rezensionsprüfer abschalten";
+"Shopping.SettingsCard.TurnOffButton.Title.v120" = "Review Checker abschalten";
 
 /* Beta label for the header of the Shopping Experience (Fakespot) sheet */
 "Shopping.Sheet.Beta.Title.v120" = "BETA";
 
 /* Accessibility label for close button that dismisses the Shopping Experience (Fakespot) sheet. */
-"Shopping.Sheet.Close.AccessibilityLabel.v121" = "Rezensionsprüfer schließen";
+"Shopping.Sheet.Close.AccessibilityLabel.v121" = "Review Checker schließen";
 
 /* Label for the header of the Shopping Experience (Fakespot) sheet */
-"Shopping.Sheet.Title.v120" = "Rezensionsprüfer";
+"Shopping.Sheet.Title.v120" = "Review Checker";
 
 /* Text for body of error card displayed to the user when the device is disconnected from the network. */
 "Shopping.WarningCard.CheckNoConnection.Description.v120" = "Überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie dann, die Seite neu zu laden.";

@@ -37,9 +37,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "最近造訪過的頁面";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "捷徑";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "設定列數";
 
@@ -944,7 +941,7 @@
 "Reader View" = "閱讀畫面";
 
 /* Accessibility message e.g. spoken by VoiceOver when Reader Mode becomes available. */
-"ReaderMode.Available.VoiceOverAnnouncement" = "可使用閱讀模式";
+"ReaderMode.Available.VoiceOverAnnouncement" = "可使用閱讀畫面";
 
 /* Name for Mark as read button in reader mode */
 "ReaderModeBar.MarkAsRead.v106" = "標示為已讀";
@@ -1143,6 +1140,9 @@
 
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "網址（使用 %s 取代查詢字串）";
+
+/* Title of setting to block opening external apps when pressing links. */
+"Settings.BlockOpeningExternalApps.Title" = "不使用外部應用程式開啟";
 
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "清除所有網站資料";
@@ -1400,7 +1400,7 @@
 "Settings.OfferClipboardBar.Status" = "開啟 Firefox 時";
 
 /* Title of setting to enable the Go to Copied URL feature. See https://bug1223660.bmoattachments.org/attachment.cgi?id=8898349 */
-"Settings.OfferClipboardBar.Title" = "讓您開啟複製的鏈結";
+"Settings.OfferClipboardBar.Title" = "詢問是否直接開啟複製的鏈結";
 
 /* Title for Open With Settings */
 "Settings.OpenWith.PageTitle" = "開啟郵件鏈結的程式";
@@ -1440,6 +1440,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "長按鏈結時";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "長按鏈結時";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "顯示鏈結預覽畫面";

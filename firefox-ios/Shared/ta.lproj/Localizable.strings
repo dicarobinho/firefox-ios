@@ -19,9 +19,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "சமீபத்தில் பார்வையிட்டது";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "குறுக்குவழிகள்";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "வரிசைகளை அமை";
 
@@ -951,6 +948,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "தொடுப்புகளை தொடர்ந்து அழுத்தும் போது";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "தொடுப்புகளை தொடர்ந்து அழுத்தும் போது";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "தொடுப்பு மாதிரிக்காட்சிகளைக் காட்டு";
