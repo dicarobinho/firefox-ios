@@ -37,9 +37,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "সম্প্রতি পরিদর্শিত";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "শর্টকাট";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "সারি সেট কতুন";
 
@@ -1155,6 +1152,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "যখন দীর্ঘক্ষন-টিপে ধরে রাখা লিঙ্কগুলি";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "যখন দীর্ঘক্ষন-টিপে ধরে রাখা লিঙ্কগুলি";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "লিঙ্ক প্রিভিউ দেখান";

@@ -979,6 +979,9 @@
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "La atingerea îndelungată a linkurilor";
 
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "La atingerea îndelungată a linkurilor";
+
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "Afișează previzualizări ale linkurilor";
 

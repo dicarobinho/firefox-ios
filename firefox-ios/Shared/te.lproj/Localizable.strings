@@ -1084,6 +1084,9 @@
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "లంకెలను ఎక్కువసేపు నొక్కినప్పుడు";
 
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "లంకెలను ఎక్కువసేపు నొక్కినప్పుడు";
+
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "లంకె మునుజూపులను చూపించు";
 

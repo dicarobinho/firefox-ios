@@ -37,9 +37,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "Air tadhal orra o chionn goirid";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "Ath-ghoiridean";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "Suidhich na ràghan";
 
@@ -845,13 +842,13 @@
 "Menu.TrackingProtectionDescription.CryptominersNew" = "Cleachdaidh criopto-mhèinneadairean comasan an t-siostaim agad airson airgead digiteach a chosnadh gun fhiosta. Traoghaidh criopto-mhèinneadairean am bataraidh agad, nì iad an coimpiutair agad slaodach agus faodaidh gun èirich cosgaisean dealain dhut.";
 
 /* Description of fingerprinters. */
-"Menu.TrackingProtectionDescription.Fingerprinters" = "Tha na roghainnean àraidh aig a’ bhrabhsair agus aig a’ choimpiutair agad. Tha lorgaichean-meur ann a chruinnicheas badan dhe na roghainnean àraidh seo airson pròifil a chruthachadh dhìot agus gabhaidh do thracadh air an lìon leotha.";
+"Menu.TrackingProtectionDescription.Fingerprinters" = "Tha na roghainnean àraidh aig a’ bhrabhsair agus aig a’ choimpiutair agad. Tha lorgairean-meòir ann a chruinnicheas badan dhe na roghainnean àraidh seo airson pròifil a chruthachadh dhìot agus gabhaidh do thracadh air an lìon leotha.";
 
 /* Description of social network trackers. */
 "Menu.TrackingProtectionDescription.SocialNetworksNew" = "Cuiridh lìonraidhean sòisealta tracaichean air làraichean-lìn eile airson pròifil nas iomlaine dhìot a chruthachadh. Ma bhacas tu na tracaichean seo, chì companaidhean nam meadhan sòisealta nas lugha dhe na nì thu air loidhne.";
 
 /* The title that shows the number of fingerprinting scripts blocked */
-"Menu.TrackingProtectionFingerprintersBlocked.Title" = "Lorgaichean-meur";
+"Menu.TrackingProtectionFingerprintersBlocked.Title" = "Lorgairean-meòir";
 
 /* The title for the option to view the What's new page. */
 "Menu.WhatsNew.Title" = "Na tha ùr";
@@ -1143,6 +1140,9 @@
 
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "URL (Cuir %s an àite na ceist)";
+
+/* Title of setting to block opening external apps when pressing links. */
+"Settings.BlockOpeningExternalApps.Title" = "Bac fosgladh de dh’aplacaidean on taobh a-muigh";
 
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "Falamhaich dàta nan làraichean-lìn air fad";
@@ -1440,6 +1440,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "Nuair a nithear brùthadh fada air ceangal";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "Nuair a nithear brùthadh fada air ceangal";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "Seall ro-sheallaidhean cheanglaichean";

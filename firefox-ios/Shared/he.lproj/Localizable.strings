@@ -37,9 +37,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "נצפה לאחרונה";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "קיצורי דרך";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "הגדרת שורות";
 
@@ -215,7 +212,7 @@
 "Could not add page to Reading list" = "לא ניתן להוסיף דף לרשימת הקריאה";
 
 /* Accessibility message e.g. spoken by VoiceOver after the user wanted to add current page to the Reading List and this was not done, likely because it already was in the Reading List, but perhaps also because of real failures. */
-"Could not add page to Reading List. Maybe it’s already there?" = "לא ניתן להוסיף דף לרשימת הקריאה. האם יתכן שהוא כבר קיים שם?";
+"Could not add page to Reading List. Maybe it’s already there?" = "לא ניתן להוסיף דף לרשימת הקריאה. אולי הוא כבר קיים שם?";
 
 /* Error message that is shown in settings when there was a problem loading */
 "Could not load page." = "לא ניתן לטעון דף.";
@@ -482,7 +479,7 @@
 "HomePanel.ContextMenu.Remove" = "הסרה";
 
 /* The title for the Remove Bookmark context menu action for sites in Home Panels */
-"HomePanel.ContextMenu.RemoveBookmark" = "הסרה מהמועדפים";
+"HomePanel.ContextMenu.RemoveBookmark" = "הסרת סימנייה";
 
 /* The title for the Share context menu action for sites in Home Panels */
 "HomePanel.ContextMenu.Share" = "שיתוף";
@@ -1141,6 +1138,9 @@
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "כתובת (יש להחליף את שאילתת החיפוש עם ‎%s)";
 
+/* Title of setting to block opening external apps when pressing links. */
+"Settings.BlockOpeningExternalApps.Title" = "חסימה של פתיחת יישומונים חיצוניים";
+
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "ניקוי כל נתוני האתרים";
 
@@ -1437,6 +1437,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "בעת לחיצה ארוכה על קישורים";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "בעת לחיצה ארוכה על קישורים";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "הצגת תצוגה מקדימה של קישורים";
@@ -1775,7 +1778,7 @@
 "Yesterday" = "אתמול";
 
 /* Error message in the remote tabs panel */
-"You don’t have any tabs open in Firefox on your other devices." = "אין לך לשוניות פתוחות ב־Firefox על שאר המכשירים שלך.";
+"You don’t have any tabs open in Firefox on your other devices." = "אין לך לשוניות פתוחות ב־Firefox בשאר המכשירים שלך.";
 
 /* Your Rights settings section title */
 "Your Rights" = "הזכויות שלך";
