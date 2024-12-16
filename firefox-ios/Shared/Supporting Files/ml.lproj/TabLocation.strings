@@ -1,0 +1,6 @@
+/* Large content title for the share button. This title is displayed when using accessible font sizes is enabled */
+"TabLocation.ShareButton.AccessibilityLabel.v122" = "പങ്കിടുക";
+
+/* Large content title for the button shown in editing mode to remove this site from the top sites panel. */
+"TopSites.RemoveButton.LargeContentTitle.v122" = "താൾ മായ്ക്കുക";
+

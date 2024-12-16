@@ -37,9 +37,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "يېقىندا زىيارەت قىلغان";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "تېزلەتمە";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "قۇر تەڭشىكى";
 
@@ -1144,6 +1141,9 @@
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "تور ئادرېسى (سۈرۈشتۈرۈش %s غا ئالماشتۇرۇلىدۇ)";
 
+/* Title of setting to block opening external apps when pressing links. */
+"Settings.BlockOpeningExternalApps.Title" = "سىرتقى ئەپ ئېچىشنى چەكلەيدۇ";
+
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "بارلىق تور بېكەت سانلىق مەلۇماتلىرىنى تازىلا";
 
@@ -1440,6 +1440,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "ئۇلانمىنى ئۇزۇن باسقاندا";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "ئۇلانمىنى ئۇزۇن باسقاندا";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "ئۇلانما ئالدىن كۆزىتىشنى كۆرسىتىدۇ";

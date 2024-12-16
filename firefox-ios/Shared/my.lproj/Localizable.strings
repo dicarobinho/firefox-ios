@@ -967,6 +967,9 @@
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "လင့်များ ကို ကြာကြာဖိထား သောခါ";
 
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "လင့်များ ကို ကြာကြာဖိထား သောခါ";
+
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "လင့်ခ်ကို ကြိုတင်အစမ်းပြပါ။";
 

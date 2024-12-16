@@ -28,9 +28,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "Təzəlikcə ziyarət edilən";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "Qısayollar";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "Sətirləri qur";
 

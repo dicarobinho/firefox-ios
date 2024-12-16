@@ -1,0 +1,24 @@
+/* The title of the button on the Default Browser Popup, which is a card with instructions telling the user how to set Firefox as their default browser. */
+"DefaultBrowserPopup.ButtonTitle.v114" = "ക്രമീകരണങ്ങളിലേക്കു പോവുക";
+
+/* String used to describe the option to continue to ask for the notification permission in Firefox Onboarding screens. */
+"Onboarding.Notification.Continue.Action.v114" = "തുടരുക";
+
+/* String used to describe the option to skip the notification permission in Firefox Onboarding screens. */
+"Onboarding.Notification.Skip.Action.v115" = "ഒഴിവാക്കുക";
+
+/* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
+"Onboarding.Sync.SignIn.Action.v114" = "പ്രവേശിക്കുക";
+
+/* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
+"Onboarding.Sync.Skip.Action.v114" = "ഒഴിവാക്കുക";
+
+/* Describes the action on the first onboarding page in our Onboarding screen. This string will be on a button so user can continue the onboarding. */
+"Onboarding.Welcome.Action.v114" = "ഉപയോഗിക്കാൻ തുടങ്ങുക";
+
+/* Describes the action on the first onboarding page in our Onboarding screen. This indicates that the user will set their default browser to Firefox. */
+"Onboarding.Welcome.ActionTreatementA.v114" = "തനതു അന്വേഷിയന്ത്രമായി സജീകരിക്കുക";
+
+/* Describes the action on the first onboarding page in our Onboarding screen. This string will be on a button so user can skip this onboarding card. */
+"Onboarding.Welcome.Skip.v114" = "ഒഴിവാക്കുക";
+

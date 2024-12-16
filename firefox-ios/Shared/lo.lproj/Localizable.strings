@@ -37,9 +37,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "ເຂົ້າໄປເບິງມາແລ້ວ";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "ທາງລັດ";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "ຕັ້ງແຖວ";
 
@@ -1144,6 +1141,9 @@
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "URL (ແທນທີ່ Query ດ້ວຍ %s)";
 
+/* Title of setting to block opening external apps when pressing links. */
+"Settings.BlockOpeningExternalApps.Title" = "ຂັດຂວາງການເປີດແອັບຯພາຍນອກ";
+
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "ລົບລ້າງຂໍ້ມູນເວັບໄຊທັງໝົດ";
 
@@ -1440,6 +1440,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "ເມື່ອກົດລີ້ງຄ້າງໄວ້ດົນໆ";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "ເມື່ອກົດລີ້ງຄ້າງໄວ້ດົນໆ";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "ສະແດງຕົວຢ່າງລີ້ງ";

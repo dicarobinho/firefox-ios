@@ -1,0 +1,6 @@
+/* Accessibility label for the address field in the address toolbar. */
+"AddressToolbar.Location.A11y.Label.v128" = "വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക";
+
+/* Placeholder for the address field in the address toolbar. */
+"AddressToolbar.Location.Placeholder.v128" = "വിലാസം തിരയുക അല്ലെങ്കില്‍ നല്‍കുക";
+

@@ -37,9 +37,6 @@
 /* Section title label for recently visited websites */
 "ActivityStream.RecentHistory.Title" = "ᱦᱟᱹᱞᱤ ᱨᱮ ᱦᱤᱨᱤᱭᱟᱠᱟᱱᱟ";
 
-/* Section title label for Shortcuts */
-"ActivityStream.Shortcuts.SectionTitle" = "ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ";
-
 /* The title for the setting page which lets you select the number of top site rows */
 "ActivityStream.TopSites.RowSettingFooter" = "ᱛᱷᱟᱨ ᱫᱚᱦᱚᱭ ᱢᱮ";
 
@@ -1144,6 +1141,9 @@
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "URL (%s ᱥᱟᱞᱟᱜ ᱵᱚᱫᱚᱞ ᱢᱮ)";
 
+/* Title of setting to block opening external apps when pressing links. */
+"Settings.BlockOpeningExternalApps.Title" = "ᱵᱟᱦᱨᱮ ᱟᱯᱞᱤᱠᱮᱥᱚᱱᱠᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱡᱷᱚᱜ ᱵᱽᱞᱚᱠ ᱢᱮ";
+
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "ᱡᱚᱛᱚ ᱣᱮᱵ ᱥᱟᱭᱤᱴ ᱥᱟᱠᱷᱤᱭᱟᱛ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ";
 
@@ -1440,6 +1440,9 @@
 
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "ᱚᱠᱟ ᱡᱷᱚᱜ ᱡᱟᱹᱥᱛᱤ ᱚᱛᱟ ᱠᱟᱱ ᱞᱤᱝᱠ ᱠᱚ";
+
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "ᱚᱠᱟ ᱡᱷᱚᱜ ᱡᱟᱹᱥᱛᱤ ᱚᱛᱟ ᱠᱟᱱ ᱞᱤᱝᱠ ᱠᱚ";
 
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "ᱞᱤᱝᱠ ᱧᱮᱧᱮᱞᱚᱜ ᱫᱮᱠᱷᱟᱣ ᱢᱮ";

@@ -44,7 +44,7 @@
 "Logins will be permanently removed." = "පිවිසුම් සදහටම ඉවත් කරනු ලැබේ.";
 
 /* Prompt message warning the user that deleted logins will remove logins from all connected devices */
-"Logins will be removed from all connected devices." = "සියළුම සම්බන්ධිත උපාංග වලින් පිවිසුම් ඉවත් කෙරේ.";
+"Logins will be removed from all connected devices." = "සියළුම සම්බන්ධ උපාංග වලින් පිවිසුම් ඉවත් කෙරේ.";
 
 /* Label describing when the current login was last modified with the timestamp as the parameter. */
 "Modified %@" = "%@ සංශෝධිතයි";
@@ -77,7 +77,7 @@
 "Select All" = "සියල්ල තෝරන්න";
 
 /* Label displayed above the username row in Login Detail View. */
-"Username" = "පරිශීලක නාමය";
+"Username" = "පරිශ්‍රීලක නාමය";
 
 /* Label displayed above the website row in Login Detail View. */
 "Website" = "අඩවිය";

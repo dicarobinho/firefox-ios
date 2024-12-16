@@ -967,6 +967,9 @@
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "Quan se preta un vinclo per tiempo prolongau";
 
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "Quan se preta un vinclo per tiempo prolongau";
+
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "Previsualizar los vinclos";
 

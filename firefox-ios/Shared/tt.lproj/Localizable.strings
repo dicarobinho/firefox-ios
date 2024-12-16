@@ -1336,6 +1336,9 @@
 /* Description displayed under the ”Show Link Previews” option */
 "Settings.ShowLinkPreviews.Status" = "Сылтамага озак итеп басканда";
 
+/* Description displayed under the ”Show Link Previews” option */
+"Settings.ShowLinkPreviews.StatusV2" = "Сылтамага озак итеп басканда";
+
 /* Title of setting to enable link previews when long-pressing links. */
 "Settings.ShowLinkPreviews.Title" = "Сылтамалар өчен алдан карап алуларны кабызу";
 
